@@ -1,5 +1,5 @@
 { "commands": [
-{ "hdr": "6F1", "rax": "618", "fcm1": true, "cmd": {"22": "DA23"}, "freq": 15,
+{ "hdr": "300", "fcm1": true, "cmd": {"22": "F190"}, "freq": 15,
   "signals": [
     {"id": "X3_ODO", "path": "Trips", "fmt": { "len": 32, "max": 4294967295, "mul": 8, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]}
